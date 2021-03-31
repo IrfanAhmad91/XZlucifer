@@ -23,7 +23,7 @@
                     return hapusin;
             }
         </script>
-    <h3>Tabel Master Buku</h3>
+    <h3>Tabel Produk</h3>
     <br/>
 
     <a class="btn btn-primary" href="input.php">+ Tambah data baru</a>
